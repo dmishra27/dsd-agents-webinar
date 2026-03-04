@@ -87,6 +87,31 @@ Build production-ready AI agents from the ground up using LangGraph and SambaNov
 2. Sign up for a free account
 3. Copy your API key into your `.env` file
 
+### Langfuse (Observability — Optional)
+
+Langfuse lets you trace and inspect every LLM call and tool invocation. You can use [Langfuse Cloud](https://cloud.langfuse.com) or [self-host with Docker](https://langfuse.com/docs/deployment/self-host).
+
+To self-host Langfuse locally:
+```bash
+# Clone and start Langfuse
+git clone https://github.com/langfuse/langfuse.git
+cd langfuse
+docker compose up -d
+```
+Langfuse will be available at `http://localhost:3000`.
+
+1. **Open the Langfuse UI** (cloud or self-hosted at `http://localhost:3000`)
+2. **Create a new project** for each session (e.g. `dsd_deep_agents_session_1`)
+3. Go to **Settings → API Keys → Create** to generate a key pair
+4. Copy the keys into your `.env` file:
+   ```
+   LANGFUSE_PUBLIC_KEY=pk-lf-...
+   LANGFUSE_SECRET_KEY=sk-lf-...
+   LANGFUSE_BASE_URL=http://localhost:3000
+   ```
+
+> **Note:** Each API key pair is tied to one project. To send traces to a different project, create new keys in that project's settings.
+
 ---
 
 ## Project Structure
