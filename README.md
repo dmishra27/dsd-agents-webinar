@@ -24,8 +24,8 @@ Build production-ready AI agents from the ground up using LangGraph and SambaNov
 
 | Session | Topic | Notebook | Recording | Date |
 |---------|-------|----------|-----------|------|
-| 1 | The Rise of the Deep Agent | [`session_1/0_create_agent.ipynb`](notebooks/session_1/0_create_agent.ipynb) | [Watch](https://www.youtube.com/watch?v=hz1v-9loe-0) | Dec 11, 2025 |
-| 2 | Agent Architecture Deep Dive | [`session_2/1_build_first_agent.ipynb`](notebooks/session_2/1_build_first_agent.ipynb) | [Watch](https://www.youtube.com/watch?v=6mJkn3u1bas) | Dec 12, 2025 |
+| 1 | The Rise of the Deep Agent | [`session_1/0_create_agent.ipynb`](notebooks/session_1/0_create_agent.ipynb) | [Watch](https://www.youtube.com/watch?v=H_h9kmKAcJc) | Mar 4, 2026 |
+| 2 | Agent Architecture Deep Dive | [`session_2/1_build_first_agent.ipynb`](notebooks/session_2/1_build_first_agent.ipynb) | Coming soon | TBD |
 | 3 | Memory & Context Management | Coming soon | TBD | TBD |
 | 4 | Tools & Agent Skills | Coming soon | TBD | TBD |
 | 5 | Multi-Agent Systems | Coming soon | TBD | TBD |
