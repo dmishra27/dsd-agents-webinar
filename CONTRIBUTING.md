@@ -67,6 +67,12 @@ pytest tests/ -v
 4. **Open** a pull request against `main`
 5. **Describe** your changes and why they're needed
 
+## Resources
+
+- [SambaNova Cloud](https://cloud.sambanova.ai/) — API documentation and keys
+- [SambaNova Documentation](https://docs.sambanova.ai/) — Full platform docs
+- [Data Science Dojo](https://datasciencedojo.com/) — Webinar series host
+
 ## Questions?
 
 Open an issue for questions about contributing.
