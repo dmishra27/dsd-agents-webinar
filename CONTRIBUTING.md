@@ -6,7 +6,12 @@
 
 </div>
 
-Thank you for your interest in contributing! This document outlines how to contribute to this project.
+## Notebooks
+
+This project includes interactive Jupyter notebooks covering agent development topics:
+
+- [Session 1: The Rise of the Deep Agent](notebooks/session_1/0_create_agent.ipynb)
+- [Session 2: Agent Architecture Deep Dive](notebooks/session_2/1_build_first_agent.ipynb)
 
 ## Getting Started
 
