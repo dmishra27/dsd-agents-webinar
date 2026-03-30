@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="assets/sambanova_logo.png" alt="SambaNova" width="300">
+
 # Contributing to Deep Agents from Scratch
+
+</div>
 
 Thank you for your interest in contributing! This document outlines how to contribute to this project.
 
